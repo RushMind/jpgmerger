@@ -1,0 +1,7 @@
+merge jpg pictures in a file directory to an pdf file.
+prerequsites:
+pyqt4
+reportlab
+pypdf
+pil
+etc.
